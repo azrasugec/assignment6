@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: 2220674062
+Version: 0.1.0
+Summary: Finds the shortest path between two points using OpenStreetMap data.
+Home-page: https://github.com/azrasugec/assignment6
+Author: Azra Sugeç
+Author-email: azrasugec@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: osmnx
+Requires-Dist: networkx
+Requires-Dist: folium
+Requires-Dist: geopy
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
